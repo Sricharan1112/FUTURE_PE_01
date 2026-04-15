@@ -1,10 +1,10 @@
-Task 1: AI Website Content Generator
+# Task 1: AI Website Content Generator
 
-🔹 Business Type:
+## 🔹 Business Type:
 
 Premium Salon & Beauty Studio (Tirupati)
 
-🔹 Prompt Used:
+## 🔹 Prompt Used:
 
 Write a friendly and attractive homepage website content for a premium salon named "GlowUp Salon & Beauty Studio" located in Tirupati.
 
@@ -18,7 +18,7 @@ A strong call-to-action (booking/contact)
 
 Make the tone friendly, modern, and confident. Keep it simple and appealing.
 
-🔹 Output:
+## 🔹 Output:
 
 ✨ Welcome to GlowUp Salon – Where Your Style Comes Alive
 
@@ -43,11 +43,11 @@ Because you deserve to look confident every day.
 
 📞 Book your appointment today and experience the GlowUp difference!
 
-🔹 Explanation:
+## 🔹 Explanation:
 
 I used AI (ChatGPT) to generate homepage website content for a premium salon business. The prompt was carefully structured to include key sections such as headline, services, and call-to-action, while maintaining a friendly and modern tone suitable for local customers.
 
-🔹 Prompt System:
+## 🔹 Prompt System:
 
 This prompt structure can be reused for different local businesses by modifying:
 
@@ -56,4 +56,4 @@ Location
 Services offered
 Tone (friendly, professional, premium)
 
-This makes the system scalable and effective for generating high-quality website content for multiple clients.
+This makes the system scalable and effective for generating high-quality website content for multiple clients
