@@ -1,4 +1,5 @@
-🧠 Task 1: AI Website Content Generator
+Task 1: AI Website Content Generator
+
 🔹 Business Type:
 
 Premium Salon & Beauty Studio (Tirupati)
