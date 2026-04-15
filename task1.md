@@ -26,14 +26,14 @@ At GlowUp Salon & Beauty Studio, we believe that beauty is not just about looks 
 
 Whether you're getting ready for a special occasion or just need a quick refresh, our salon offers a relaxing space where your beauty needs are our priority.
 
-Our Services:
+## Our Services:
 • Haircuts & Styling – Trendy and personalized styles that suit you
 • Hair Spa & Treatments – Nourishment and shine for healthy hair
 • Bridal & Party Makeup – Look stunning for every special moment
 • Skincare & Facials – Glow naturally with refreshing treatments
 • Hair Coloring – From subtle shades to bold transformations
 
-Why Choose GlowUp Salon?
+## Why Choose GlowUp Salon?
 • Skilled and experienced professionals
 • Clean, hygienic, and comfortable environment
 • Affordable pricing with premium quality
@@ -49,11 +49,10 @@ I used AI (ChatGPT) to generate homepage website content for a premium salon bus
 
 ## 🔹 Prompt System:
 
-This prompt structure can be reused for different local businesses by modifying:
-
-Business name
-Location
-Services offered
-Tone (friendly, professional, premium)
+This prompt structure can be reused for different local businesses by changing:
+- Business name
+- Location
+- Services
+- Tone (friendly, professional, premium)
 
 This makes the system scalable and effective for generating high-quality website content for multiple clients
